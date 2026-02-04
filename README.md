@@ -91,9 +91,3 @@ src/
 
 Some features, API integrations, and content have been **omitted or simplified** in this repo. The link at the top of this README points to the full project where you can see the complete experience.
 
----
-
-## License
-
-This demo repository is for portfolio and demonstration purposes.  
-For licensing of the full Hansy Real Estate project.
