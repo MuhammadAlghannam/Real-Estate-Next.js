@@ -1,4 +1,4 @@
-# Hansy Real Estate — Demo Repository
+# Hansy Real Estate
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Demo repository notice
+## Repository notice
 
 This repository is a **demo version** of the Hansy Real Estate project, published for portfolio and demonstration purposes.
 
